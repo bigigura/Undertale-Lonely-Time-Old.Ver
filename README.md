@@ -1,3 +1,2 @@
 # Undertale-Lonely-Time(Old.Ver)
-### 制作中...
 ## [Play Now](https://bigigura.github.io/Undertale-Lonely-Time/)

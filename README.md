@@ -1,2 +1,2 @@
 # Undertale-Lonely-Time(Old.Ver)
-## [Play Now](https://bigigura.github.io/Undertale-Lonely-Time/)
+## [New.Ver](https://bigigura.github.io/Undertale-Lonely-Time/)
